@@ -3,7 +3,7 @@ Support Vector Classifier for Image classification
 
 This code includes:
 
-Way of storing image data to data frame
-training SVC classifiyer
-dumping pickle file
-use of pickle file
+### 01. Way of storing image data to data frame
+### 02. Training SVC classifiyer
+### 03. Dumping pickle file
+### 04. Use of pickle file
